@@ -1,5 +1,6 @@
 
 
+
 #Condições
 
 #idade = 17
@@ -25,8 +26,23 @@ for fruta in frutas:
     print(fruta)
 
 """
-contador = 0
+# contador = 0
 
-while contador < 100:
-    print(contador)
-    contador += 1
+# while contador < 100:
+#     print(contador)
+#     contador += 1
+
+
+print("Viajando")
+
+resultado = (5+5) *5
+
+print(resultado)
+
+nome = "David"
+idade = 25
+casado = True
+altura = 1.85
+
+
+print(casado)
